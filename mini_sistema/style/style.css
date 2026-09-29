@@ -1,0 +1,18 @@
+body{
+    width: 30%;
+    margin:auto;
+    text-align: center;
+    background-color:rgb(136, 127, 255);
+}
+body main{
+    background-color: azure;
+       border-radius: 40px;
+}
+header{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+}
+footer{
+    border: 2px solid black;
+    border-radius: 100px;
+}
